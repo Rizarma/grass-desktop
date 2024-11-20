@@ -4,6 +4,11 @@ Get Grass BOT (Desktop Version)
 
 Register Here : [GetGrass](https://app.getgrass.io/register/?referralCode=PnmuSjrqxyxvZsk)
 
+Proxies Static Residental:
+[FREE 10 PREMIUM PROXIES](https://www.webshare.io/?referral_code=p7k7whpdu2jg) | [Free 100 Premium Proxies](https://proxyscrape.com/?ref=odk1mmj) 
+
+Good Premium Proxies (paid, recomend to use this): [922proxy](https://www.922proxy.com/register?inviter_code=d03d4fed), [proxy-cheap](https://app.proxy-cheap.com/r/JysUiH), [infatica](https://dashboard.infatica.io/aff.php?aff=544)
+
 
 ## Features
 
