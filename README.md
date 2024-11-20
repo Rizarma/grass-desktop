@@ -2,7 +2,7 @@
 # Get Grass Desktop
 Get Grass BOT (Desktop Version)
 
-Register Here : [GetGrass](https://app.getgrass.io/register/?referralCode=NIlT1MR9E2476uA)
+Register Here : [GetGrass](https://app.getgrass.io/register/?referralCode=PnmuSjrqxyxvZsk)
 
 
 ## Features
