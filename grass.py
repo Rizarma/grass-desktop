@@ -168,12 +168,12 @@ async def connect_to_wss(socks5_proxy, user_id, device_status):
         try:
             # URI list for random selection
             urilist = [
-                "wss://proxy.wynd.network:4444/",
-                "wss://proxy.wynd.network:4650/",
-                "wss://proxy2.wynd.network:4444/", 
-                "wss://proxy2.wynd.network:4650/",
-                "wss://proxy3.wynd.network:4444/", 
-                "wss://proxy3.wynd.network:4650/"
+                #"wss://proxy.wynd.network:4444/",
+                #"wss://proxy.wynd.network:4650/",
+                "wss://proxy2.wynd.network:4444", 
+                "wss://proxy2.wynd.network:4650"
+                #"wss://proxy3.wynd.network:4444/", 
+                #"wss://proxy3.wynd.network:4650/"
             ]
             uri = random.choice(urilist)
             
