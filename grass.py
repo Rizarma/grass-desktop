@@ -290,7 +290,8 @@ def print_status(device_status):
 # Main function
 async def main():
     proxies = read_proxies('proxy.txt')
-    check_proxy = input("Do you want to check proxies? (y/n): ").strip().lower()
+    # check_proxy = input("Do you want to check proxies? (y/n): ").strip().lower()
+    check_proxy = 'y'
     
     if check_proxy == 'y':
         valid_proxies = filter_proxies(proxies)
